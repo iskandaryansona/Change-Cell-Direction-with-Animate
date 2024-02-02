@@ -13,7 +13,13 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
+    
+    
+    //MARK: - Action
+    
+    @IBAction func showMantrasList(_ sender: UIButton){
+        
+    }
 
 }
 
