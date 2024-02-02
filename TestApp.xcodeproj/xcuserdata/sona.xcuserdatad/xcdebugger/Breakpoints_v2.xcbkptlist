@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "953DE1AC-20B4-499E-B90B-0F1C2DB6ACBD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2AD104D-249D-4E89-8D75-85DD2B40BA57"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestApp/Controllers/MantrasListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DEA92430-77DA-46B6-869E-FBAF86CA0970"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestApp/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DEA92430-77DA-46B6-869E-FBAF86CA0970 - 175e48ef03f3496b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;) -&gt; Swift.Optional&lt;TestApp.Mantras&gt; in TestApp.ViewController.getData() -&gt; ()"
+                  moduleName = "TestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sona/Desktop/TestApp/TestApp/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "DEA92430-77DA-46B6-869E-FBAF86CA0970 - 175e48ef03f3496b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Dictionary&lt;Swift.String, Swift.AnyObject&gt;) -&gt; Swift.Optional&lt;TestApp.Mantras&gt; in TestApp.ViewController.getData() -&gt; ()"
+                  moduleName = "TestApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sona/Desktop/TestApp/TestApp/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

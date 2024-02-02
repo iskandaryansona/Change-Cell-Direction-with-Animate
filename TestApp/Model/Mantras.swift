@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+
+struct Mantras {
+    var name:String
+    var duration:Int
+}

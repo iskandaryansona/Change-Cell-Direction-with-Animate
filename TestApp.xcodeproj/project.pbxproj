@@ -7,15 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E71AEA862B6D489800074B6F /* Mantras.swift in Sources */ = {isa = PBXBuildFile; fileRef = E71AEA852B6D489800074B6F /* Mantras.swift */; };
 		E7F4AC862B6BD98400B4E1B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7F4AC852B6BD98400B4E1B6 /* AppDelegate.swift */; };
 		E7F4AC882B6BD98400B4E1B6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7F4AC872B6BD98400B4E1B6 /* SceneDelegate.swift */; };
 		E7F4AC8A2B6BD98400B4E1B6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7F4AC892B6BD98400B4E1B6 /* ViewController.swift */; };
 		E7F4AC8D2B6BD98400B4E1B6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7F4AC8B2B6BD98400B4E1B6 /* Main.storyboard */; };
 		E7F4AC8F2B6BD98500B4E1B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7F4AC8E2B6BD98500B4E1B6 /* Assets.xcassets */; };
 		E7F4AC922B6BD98500B4E1B6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7F4AC902B6BD98500B4E1B6 /* LaunchScreen.storyboard */; };
+		E7F4AC9B2B6BDBF000B4E1B6 /* UIView + Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7F4AC9A2B6BDBF000B4E1B6 /* UIView + Extension.swift */; };
+		E7F4AC9E2B6BDD6600B4E1B6 /* MantrasListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7F4AC9D2B6BDD6600B4E1B6 /* MantrasListVC.swift */; };
+		E7F4ACA12B6C331F00B4E1B6 /* MantrasListCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7F4ACA02B6C331F00B4E1B6 /* MantrasListCellTableViewCell.swift */; };
+		E7F4ACA42B6C40AC00B4E1B6 /* Nunito-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E7F4ACA32B6C40AC00B4E1B6 /* Nunito-Bold.ttf */; };
+		E7F4ACA82B6C44F400B4E1B6 /* peachi-black.otf in Resources */ = {isa = PBXBuildFile; fileRef = E7F4ACA72B6C44F400B4E1B6 /* peachi-black.otf */; };
+		E7FDB54A2B6CFD2C009F8243 /* Mantras.plist in Resources */ = {isa = PBXBuildFile; fileRef = E7FDB5492B6CFD2B009F8243 /* Mantras.plist */; };
+		E7FDB54C2B6D215E009F8243 /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7FDB54B2B6D215E009F8243 /* Animation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E71AEA852B6D489800074B6F /* Mantras.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mantras.swift; sourceTree = "<group>"; };
 		E7F4AC822B6BD98400B4E1B6 /* TestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7F4AC852B6BD98400B4E1B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E7F4AC872B6BD98400B4E1B6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +33,13 @@
 		E7F4AC8E2B6BD98500B4E1B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E7F4AC912B6BD98500B4E1B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E7F4AC932B6BD98500B4E1B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E7F4AC9A2B6BDBF000B4E1B6 /* UIView + Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView + Extension.swift"; sourceTree = "<group>"; };
+		E7F4AC9D2B6BDD6600B4E1B6 /* MantrasListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MantrasListVC.swift; sourceTree = "<group>"; };
+		E7F4ACA02B6C331F00B4E1B6 /* MantrasListCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MantrasListCellTableViewCell.swift; sourceTree = "<group>"; };
+		E7F4ACA32B6C40AC00B4E1B6 /* Nunito-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Nunito-Bold.ttf"; sourceTree = "<group>"; };
+		E7F4ACA72B6C44F400B4E1B6 /* peachi-black.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "peachi-black.otf"; sourceTree = "<group>"; };
+		E7FDB5492B6CFD2B009F8243 /* Mantras.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Mantras.plist; sourceTree = "<group>"; };
+		E7FDB54B2B6D215E009F8243 /* Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +53,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E71AEA842B6D488500074B6F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E71AEA852B6D489800074B6F /* Mantras.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		E7F4AC792B6BD98400B4E1B6 = {
 			isa = PBXGroup;
 			children = (
@@ -56,15 +80,55 @@
 		E7F4AC842B6BD98400B4E1B6 /* TestApp */ = {
 			isa = PBXGroup;
 			children = (
+				E7F4ACA22B6C409800B4E1B6 /* Font */,
+				E7F4AC9F2B6C32E900B4E1B6 /* Cell */,
+				E7F4AC992B6BDBCD00B4E1B6 /* Extension */,
 				E7F4AC852B6BD98400B4E1B6 /* AppDelegate.swift */,
+				E71AEA842B6D488500074B6F /* Model */,
+				E7F4AC9C2B6BDD3400B4E1B6 /* Controllers */,
 				E7F4AC872B6BD98400B4E1B6 /* SceneDelegate.swift */,
-				E7F4AC892B6BD98400B4E1B6 /* ViewController.swift */,
 				E7F4AC8B2B6BD98400B4E1B6 /* Main.storyboard */,
 				E7F4AC8E2B6BD98500B4E1B6 /* Assets.xcassets */,
 				E7F4AC902B6BD98500B4E1B6 /* LaunchScreen.storyboard */,
 				E7F4AC932B6BD98500B4E1B6 /* Info.plist */,
+				E7FDB5492B6CFD2B009F8243 /* Mantras.plist */,
+				E7FDB54B2B6D215E009F8243 /* Animation.swift */,
 			);
 			path = TestApp;
+			sourceTree = "<group>";
+		};
+		E7F4AC992B6BDBCD00B4E1B6 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				E7F4AC9A2B6BDBF000B4E1B6 /* UIView + Extension.swift */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		E7F4AC9C2B6BDD3400B4E1B6 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				E7F4AC892B6BD98400B4E1B6 /* ViewController.swift */,
+				E7F4AC9D2B6BDD6600B4E1B6 /* MantrasListVC.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		E7F4AC9F2B6C32E900B4E1B6 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				E7F4ACA02B6C331F00B4E1B6 /* MantrasListCellTableViewCell.swift */,
+			);
+			path = Cell;
+			sourceTree = "<group>";
+		};
+		E7F4ACA22B6C409800B4E1B6 /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				E7F4ACA72B6C44F400B4E1B6 /* peachi-black.otf */,
+				E7F4ACA32B6C40AC00B4E1B6 /* Nunito-Bold.ttf */,
+			);
+			path = Font;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,7 +190,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				E7F4AC922B6BD98500B4E1B6 /* LaunchScreen.storyboard in Resources */,
+				E7FDB54A2B6CFD2C009F8243 /* Mantras.plist in Resources */,
+				E7F4ACA82B6C44F400B4E1B6 /* peachi-black.otf in Resources */,
 				E7F4AC8F2B6BD98500B4E1B6 /* Assets.xcassets in Resources */,
+				E7F4ACA42B6C40AC00B4E1B6 /* Nunito-Bold.ttf in Resources */,
 				E7F4AC8D2B6BD98400B4E1B6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,8 +205,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7F4AC9B2B6BDBF000B4E1B6 /* UIView + Extension.swift in Sources */,
 				E7F4AC8A2B6BD98400B4E1B6 /* ViewController.swift in Sources */,
+				E7FDB54C2B6D215E009F8243 /* Animation.swift in Sources */,
+				E7F4ACA12B6C331F00B4E1B6 /* MantrasListCellTableViewCell.swift in Sources */,
 				E7F4AC862B6BD98400B4E1B6 /* AppDelegate.swift in Sources */,
+				E7F4AC9E2B6BDD6600B4E1B6 /* MantrasListVC.swift in Sources */,
+				E71AEA862B6D489800074B6F /* Mantras.swift in Sources */,
 				E7F4AC882B6BD98400B4E1B6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -292,7 +364,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 3HT6K482Y6;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TestApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -300,6 +372,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -320,7 +393,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 3HT6K482Y6;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = TestApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -328,6 +401,7 @@
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
